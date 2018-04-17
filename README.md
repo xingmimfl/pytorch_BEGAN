@@ -3,7 +3,7 @@ BEGAN
 
 Code accompanying the paper ["BEGAN"](https://arxiv.org/abs/1703.10717), with MaxPool2d as subsampling.
 
-![gensample](imgs/fake_samples_72500.png,"32x32 samples")
+![image](https://github.com/xingmimfl/pytorch_BEGAN/blob/master/imgs/fake_samples_72500.png)
 
 ### Progress
 
