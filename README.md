@@ -24,5 +24,5 @@ default gamma=0.5
 64x64: imageSize=64, size=4
 128x128: imageSize=128, size=5
 """
-python main.py --dataset CelebA --dataroot [CelebA-train-folder] --imageSize 64 --size 4 --gamma 0.5
+python main.py --dataset CelebA --dataroot [CelebA-train-folder] --imageSize 64 --size 4 --gamma 0.5 --cuda
 ```
